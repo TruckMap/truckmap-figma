@@ -1,0 +1,9 @@
+{
+    "name": "TruckMap",
+    "lists": [
+        {
+            "name": "Street",
+            "path": "streets.txt"
+        }
+    ]
+}
