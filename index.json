@@ -2,8 +2,24 @@
     "name": "TruckMap",
     "lists": [
         {
-            "name": "Street",
-            "path": "streets.txt"
+            "name": "Address (Line 1)",
+            "path": "address-line-1.txt"
+        },
+        {
+            "name": "Address (Line 2)",
+            "path": "address-line-2.txt"
+        },
+        {
+            "name": "Place Type",
+            "path": "place-type.txt"
+        },
+        {
+            "name": "Place Meta Type",
+            "path": "place-meta-type.txt"
+        },
+        {
+            "name": "Truck Stop Name",
+            "path": "truck-stop-name.txt"
         }
     ]
 }

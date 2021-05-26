@@ -1,0 +1,130 @@
+Public Truck Parking
+Overnight Public Parking
+Hazmat Parking
+Total Public Parking
+Public Parking Feed Enabled
+Available Public Parking (Feed)
+Available Public Parking (User)
+Reserved Truck Parking
+Total Reserved Parking
+Available Reserved Parking
+Reserved Parking Cost
+Customer Truck Parking
+Overnight Customer Parking
+Parking is Secured
+Parking Lighting
+Parking Lot Type
+Diesel Fuel
+Diesel Fuel Price
+Diesel Fuel Lanes
+Unleaded Fuel
+Unleaded Fuel Price
+DEF Fuel
+DEF Price
+DEF Lanes
+Midgrade Fuel
+Midgrade Fuel Price
+Hydrogen Fuel
+Hydrogen Fuel Price
+Electric Charging
+Electric Charging Price
+Electric Charging Type
+Electric Charging Connector
+Weigh Station Type
+Weigh Station Status
+Bypass Providers
+Loading Hours
+Unloading Hours
+Lift Hours
+Roadability Hours
+Load/Unload Manner
+Unload Type
+Who Schedules Appointments?
+Scheduling Channel
+Early Unload Available
+Has Late Arrival Fee
+Late Arrival Fee
+Late Work-In Policy
+Late Arrival Requires Reschedule
+Reschedule Time Options
+Restrooms
+Vending Machine
+Smoking Allowed
+Wi-Fi
+Pets Allowed
+CAT Scale
+Showers
+Number of Showers
+Laundry
+Truck Wash
+RV Dump Station
+Air Hose
+Propane
+Compressed Natural Gas
+ATM
+Roadside Assistance
+Truck Oil Change
+Truck Tire Service
+Truck Mechanic
+Truck Sales
+Truck Towing
+Temp Control Requirements
+Temp Control Options
+TWIC Required
+Government Facility
+Criminal record or non-citizen turned away?
+Scales on site?
+Escort Available / Required
+Escort Hours
+Escort Payment Type
+Escort Price
+Lumper Available / Required
+Lumper Hours
+Lumper Payment Type
+Lumper Price
+Ships / Receives Hazmat goods
+Ships / Receives goods that require tanker endorsement
+Tarps Required
+Tarp Required Size
+Map Image Url (3rd party static images)
+Safety Requirements
+Pre-arrival Requirements
+Check-In Location
+Check-In Info Needed
+Drop Trailers
+Dock Type
+Dock Height
+Number of Loading Docks
+Cross-Docking Capabilities
+Commodities Shipped / Received
+Additional Cargo Insurance Required
+Min Cargo Insurance Amount
+Trailer Requirements
+Forklift Present
+Security Gates
+Max Trailer Length
+Max Trailer Height
+Max Truck Weight
+Max Equipment Weight
+Equipment Required
+Facility Access / Maneuver Restrictions
+Dock Accessibility
+Intermodal Capabilities
+Facility Building Size
+Facility Land Acreage
+Facility Opened
+Highway
+Highway Marker
+Highway Exit
+Cross Street
+Population
+Fax Number
+Phone Number
+Receiving Phone Number
+Appointment Phone Number
+Website
+CB Channel
+FIRMS Code
+IATA Code
+ICAO Code
+Station Codes

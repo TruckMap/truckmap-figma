@@ -1,0 +1,99 @@
+Coordinates
+Current Location
+Address
+Facility
+Neighborhood
+Zipcode
+City
+Region
+Subregion
+Distribution Center
+Fulfillment Center
+Sortation Center
+Cross-Docking Facility
+Warehouse
+Dry Warehouse
+Cold Storage Facility
+Grocery Warehouse
+Bonded Warehouse
+Bulk Warehouse
+Intermodal Terminal
+Transload Terminal
+Carrier Terminal
+Carrier Drop Yard
+Weigh Station
+Truck Stop
+Rest Area
+Misc. Truck Parking
+Airport
+Seaport
+Train Station
+Bus Station
+Cruise Ship Terminal
+Transit Station
+Ferry Terminal
+Subway Station
+Grocery Store
+Mall / Outlet
+Retail Store
+Gas Station
+Office Supplies Store
+Building Materials Store
+Electronics Store
+Furniture Sture
+Car Sales
+Pharmacy / Drug Store
+Residential Tower
+Residential Building
+Corporate Office Tower
+Corporate Office Building
+Residential House
+RV Park
+Material Supplier
+Paper Supplier
+Leather Supplier
+Clothing Textiles Supplier
+Plastic Supplier
+Beverage Supplier
+Food Supplier
+Construction Site
+Heavy Manufacturing
+Light Manufacturing
+Agriculture
+Refinery
+Oil Field
+Smelter
+Scrap Yard
+Lumber Yard
+Power Plant
+Water Treatment Plant
+Chemical Plant
+Towing Yard
+Wind Farm
+Dam
+Solar Plant
+Geothermal Plant
+Nuclear Power Plant
+Truck Rental
+Storage
+Truck Sales
+Truck Mechanic
+Educational Institution
+Convention Center
+Medical Facility
+Market
+Park
+Post Office
+Prison
+Government Facility
+Restaurant / Food
+Courthouse
+Gym
+Stadium / Arena
+Museum
+Campground
+Amusement Park
+Movie Theater
+Zoo
+Water Park
+Aquarium
