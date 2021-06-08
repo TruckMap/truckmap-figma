@@ -20,6 +20,10 @@
         {
             "name": "Truck Stop Name",
             "path": "truck-stop-name.txt"
+        },
+        {
+            "name": "Document Type",
+            "path": "document-type.txt"
         }
     ]
 }
