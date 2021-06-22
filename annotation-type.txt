@@ -1,0 +1,24 @@
+Truck Entrance
+Truck Exit
+Building Address
+Truck Access Road
+Check-In
+Guard Shack
+Office
+Loading Docks
+Front Door
+Building
+Car Parking
+Landmark
+Truck Parking
+Diesel Pumps
+Dropped Trailers
+Smoking Area
+Wash Out
+Scale
+Turn Around
+Tight Turn
+Low Clearance
+Low Power Lines
+Chemical Tanks
+Construction
