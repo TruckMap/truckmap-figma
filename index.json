@@ -18,6 +18,10 @@
             "path": "place-meta-type.txt"
         },
         {
+            "name": "Place Annotation Type",
+            "path": "annotation-type.txt"
+        },
+        {
             "name": "Truck Stop Name",
             "path": "truck-stop-name.txt"
         },
