@@ -10,6 +10,10 @@
             "path": "address-line-2.txt"
         },
         {
+            "name": "Phone Number",
+            "path": "phone-number.txt"
+        },
+        {
             "name": "Place Type",
             "path": "place-type.txt"
         },
